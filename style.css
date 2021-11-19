@@ -3,4 +3,8 @@
     height: 300px;
     background: hotpink;
     margin: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font: 50px; color: #fff;
 }
